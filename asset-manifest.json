@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pranay.portfolio/static/css/main.f777afd0.css",
+    "main.js": "/pranay.portfolio/static/js/main.50c0134a.js",
+    "static/media/tailwind.png": "/pranay.portfolio/static/media/tailwind.79fab714803812aa92ef.png",
+    "static/media/Prj2.png": "/pranay.portfolio/static/media/Prj2.17f61066398e9b47dc55.png",
+    "static/media/react.png": "/pranay.portfolio/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/mysql.png": "/pranay.portfolio/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/Prj4.png": "/pranay.portfolio/static/media/Prj4.1e440bb2b7d2b192731a.png",
+    "static/media/python.png": "/pranay.portfolio/static/media/python.d8b377f05522bf35de36.png",
+    "static/media/Profile.jpg": "/pranay.portfolio/static/media/Profile.4cc5a192d8400f2778f4.jpg",
+    "static/media/html.png": "/pranay.portfolio/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/java.png": "/pranay.portfolio/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/Prj1.png": "/pranay.portfolio/static/media/Prj1.a0d519c5dd4ced3a9bfa.png",
+    "static/media/nodejs.png": "/pranay.portfolio/static/media/nodejs.07d152a8a036951b8d14.png",
+    "static/media/express.png": "/pranay.portfolio/static/media/express.39a0f4c3d981885c64f8.png",
+    "static/media/Prj3.jpg": "/pranay.portfolio/static/media/Prj3.63edeb1edfb66a2075e4.jpg",
+    "index.html": "/pranay.portfolio/index.html",
+    "main.f777afd0.css.map": "/pranay.portfolio/static/css/main.f777afd0.css.map",
+    "main.50c0134a.js.map": "/pranay.portfolio/static/js/main.50c0134a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f777afd0.css",
+    "static/js/main.50c0134a.js"
+  ]
+}
